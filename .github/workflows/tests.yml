@@ -1,5 +1,5 @@
 ---
-nmae: tests
+name: tests
 
 on: [push]
 
