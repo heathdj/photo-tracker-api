@@ -1,7 +1,7 @@
 ---
 nmae: tests
 
-om: [push]
+on: [push]
 
 jobs:
   test-lint:
