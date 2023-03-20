@@ -8,6 +8,9 @@ This project uses github actions for testing, building containers and deploying.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![build](https://img.shields.io/github/actions/workflow/status/heathdj/photo-tracker-api/tests.yml)
+![languages](https://img.shields.io/github/languages/count/heathdj/photo-tracker-api)
+![snyk](https://img.shields.io/snyk/vulnerabilities/github/heathdj/photo-tracker-api)
+![issues](https://img.shields.io/github/issues/heathdj/photo-tracker-api)
 
 ## Deployment
 
